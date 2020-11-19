@@ -20,11 +20,18 @@ React es una biblioteca Javascript, y vamos a asumir que tienes un entendimiento
 
 🎯 https://developer.mozilla.org/es/docs/Web/JavaScript/Una_re-introducci%C3%B3n_a_JavaScript
 
-### JSX
+### 3. JSX
+
+#### Recursos
+
+- [Draft: JSX Specification](https://facebook.github.io/jsx/)
+- [Introducción a React - 2. JSX](https://www.youtube.com/watch?v=IBwhZCLNWOA)
+- [¿Qué *demonios* es JSX?](https://medium.com/@Thoughtworks_es/qu%C3%A9-demonios-es-jsx-txt-f5841e51f664)
+- [¿Qué es JSX?](https://medium.com/@simonhoyos/qu%C3%A9-es-jsx-95006a2f94f9)
 
 #### Presetación de los miembros del grupo de estudio
 
-- Tux Gonzales >> https://docs.google.com/presentation/d/1w19M2wMZea3UibZZ_GcP17GZ9lQ3t1gOCvUQwWSzfhw/edit?usp=sharing
+- Tux Gonzales >> https://docs.google.com/presentation/d/1w19M2wMZea3UibZZ_GcP17GZ9lQ3t1gOCvUQwWSzfhw
 - Mike Yanes >> https://view.genial.ly/5fb216e82e26ac0ceb7daef0/presentation-jsx
 - Ejemplo de código >> https://github.com/edgonzalez24/boilerplate-ReactJs-Webpack-Babel
 
@@ -32,6 +39,11 @@ React es una biblioteca Javascript, y vamos a asumir que tienes un entendimiento
 
 - Mike >> `Cada componente es cómo una pieza de lego que se juntan para armar más componentes`
 - Tux >> `Semántica: Conjunto de reglas que se proporcionan al significado de una sentencia o instrucción`
+
+#### Twitter
+
+- Tux >> https://twitter.com/_tuxgonzalez
+- Mike >> https://twitter.com/JMike_Yanes
 
 ### Componentes y props
 
