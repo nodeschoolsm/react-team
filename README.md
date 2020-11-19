@@ -22,6 +22,17 @@ React es una biblioteca Javascript, y vamos a asumir que tienes un entendimiento
 
 ### JSX
 
+#### Presetación de los miembros del grupo de estudio
+
+- Tux Gonzales >> https://docs.google.com/presentation/d/1w19M2wMZea3UibZZ_GcP17GZ9lQ3t1gOCvUQwWSzfhw/edit?usp=sharing
+- Mike Yanes >> https://view.genial.ly/5fb216e82e26ac0ceb7daef0/presentation-jsx
+- Ejemplo de código >> https://github.com/edgonzalez24/boilerplate-ReactJs-Webpack-Babel
+
+#### Quotes
+
+- Mike >> `Cada componente es cómo una pieza de lego que se juntan para armar más componentes`
+- Tux >> `Semántica: Conjunto de reglas que se proporcionan al significado de una sentencia o instrucción`
+
 ### Componentes y props
 
 ### Class Components y Functional Components
