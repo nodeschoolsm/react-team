@@ -47,11 +47,7 @@ React es una biblioteca Javascript, y vamos a asumir que tienes un entendimiento
 
 ### Componentes y props
 
-### Class Components y Functional Components
-
-### Estado de un componente
-
-### Ciclo de vida de un component
+### Tipos de componentes y su ciclo de vida
 
 ### Control de eventos
 
