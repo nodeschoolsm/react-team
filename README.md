@@ -12,13 +12,13 @@ Un pequeño path de aprendizaje para comenzar con React
 
 Este tutorial no asume ningún conocimiento previo sobre React.
 
-🎯 https://es.reactjs.org/tutorial/tutorial.html#what-are-we-building
+🎯 [Lectura](https://es.reactjs.org/tutorial/tutorial.html#what-are-we-building)
 
 ### 2. Recordando Javascript
 
 React es una biblioteca Javascript, y vamos a asumir que tienes un entendimiento básico del lenguaje Javascript.
 
-🎯 https://developer.mozilla.org/es/docs/Web/JavaScript/Una_re-introducci%C3%B3n_a_JavaScript
+🎯 [Lectura](https://developer.mozilla.org/es/docs/Web/JavaScript/Una_re-introducci%C3%B3n_a_JavaScript)
 
 ### 3. JSX
 
@@ -31,9 +31,9 @@ React es una biblioteca Javascript, y vamos a asumir que tienes un entendimiento
 
 #### Presetación de los miembros del grupo de estudio
 
-- Tux Gonzales >> https://docs.google.com/presentation/d/1w19M2wMZea3UibZZ_GcP17GZ9lQ3t1gOCvUQwWSzfhw
-- Mike Yanes >> https://view.genial.ly/5fb216e82e26ac0ceb7daef0/presentation-jsx
-- Ejemplo de código >> https://github.com/edgonzalez24/boilerplate-ReactJs-Webpack-Babel
+- [Tux Gonzales](https://docs.google.com/presentation/d/1w19M2wMZea3UibZZ_GcP17GZ9lQ3t1gOCvUQwWSzfhw)
+- [Mike Yanes](https://view.genial.ly/5fb216e82e26ac0ceb7daef0/presentation-jsx)
+- [Ejemplo de código - Tux](https://github.com/edgonzalez24/boilerplate-ReactJs-Webpack-Babel)
 
 #### Quotes
 
@@ -45,7 +45,18 @@ React es una biblioteca Javascript, y vamos a asumir que tienes un entendimiento
 - Tux >> https://twitter.com/_tuxgonzalez
 - Mike >> https://twitter.com/JMike_Yanes
 
-### Componentes y props
+### 4. Componentes y props
+
+#### Presetación de los miembros del grupo de estudio
+
+- [Presentación Dany](https://github.com/danybeltran/react-props-presentation) ó [Ver en Youtube](https://www.youtube.com/watch?v=YvIv14Ch6WI) 
+- [Presentación Elvis](https://cdn.discordapp.com/attachments/731323810854469762/781373548786745354/Componentes_y_Props_REACTJS.pptx) ó [Ver en Youtube](https://www.youtube.com/watch?v=b4G8PHNdPnw)
+- [Ejemplo de código - Elvis](https://stackblitz.com/edit/charla-props?file=src/App.js)
+
+#### Twitter / Github
+
+- Dany >> https://github.com/danybeltran
+- Elvis >> https://github.com/ElvisGmz
 
 ### Tipos de componentes y su ciclo de vida
 
